@@ -1,0 +1,20 @@
+.step {
+    text-align: justify;
+    margin-inline-start: 30px;
+}
+
+.up {
+    text-align: justify;
+    margin-inline-start: 20px;
+}
+
+.mar {
+    text-align: justify;
+    margin-inline-start: 70px;
+}
+.row{
+    color: white;
+}
+.video{
+    border-radius: 10px !important;
+}
